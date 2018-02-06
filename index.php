@@ -1,6 +1,6 @@
 <?php 
 
 echo "test";
-echo " un changement pour les commit";
+echo " Annuler l'anulation d'un changement pour les commit";
 
 ?>
